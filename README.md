@@ -8,7 +8,8 @@ Start the Program.
 ### Step 2: 
 Get the values from user.
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.png)
+Substitute the values in the distance formula  ![formula](/formul.png)
+
 ### Step 4: 
 Display the output value.
 ### Step 5: 
